@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**power36113/power36113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- power36113/power36113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🔭 I’m currently working on understanding GitHub and HTML.
 - 🌱 I’m currently learning (as of spring semester 2022, January-May), C++ Programming, Web Design, and Digital Security.
 - 🤔 I’m looking for help with understanding C++ and Python better!
